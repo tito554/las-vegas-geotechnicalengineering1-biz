@@ -1,0 +1,62 @@
+# Las Vegas
+
+> Geotechnical engineering company in United States, providing professional services in soil mechanics, foundation engineering and site investigation.
+
+## Services
+- [Atterberg Limits](https://las-vegas.geotechnicalengineering1.biz/atterberg-limits/)
+- [Base Isolation Seismic Design](https://las-vegas.geotechnicalengineering1.biz/base-isolation-seismic-design/)
+- [Cbr Study Road Design](https://las-vegas.geotechnicalengineering1.biz/cbr-study-road-design/)
+- [Contaminated Soil Remediation](https://las-vegas.geotechnicalengineering1.biz/contaminated-soil-remediation/)
+- [Deep Soil Mixing](https://las-vegas.geotechnicalengineering1.biz/deep-soil-mixing/)
+- [Differential Settlement Analysis](https://las-vegas.geotechnicalengineering1.biz/differential-settlement-analysis/)
+- [Direct Shear](https://las-vegas.geotechnicalengineering1.biz/direct-shear/)
+- [Driven Pile Design](https://las-vegas.geotechnicalengineering1.biz/driven-pile-design/)
+- [Dynamic Compaction Design](https://las-vegas.geotechnicalengineering1.biz/dynamic-compaction-design/)
+- [Exploratory Pit](https://las-vegas.geotechnicalengineering1.biz/exploratory-pit/)
+- [Factor Safety](https://las-vegas.geotechnicalengineering1.biz/factor-safety/)
+- [Field Permeability](https://las-vegas.geotechnicalengineering1.biz/field-permeability/)
+- [Field Vane Shear](https://las-vegas.geotechnicalengineering1.biz/field-vane-shear/)
+- [Foundations](https://las-vegas.geotechnicalengineering1.biz/foundations/)
+- [Geocell Design](https://las-vegas.geotechnicalengineering1.biz/geocell-design/)
+- [Geogrid Specification](https://las-vegas.geotechnicalengineering1.biz/geogrid-specification/)
+- [Geomembrane Specification](https://las-vegas.geotechnicalengineering1.biz/geomembrane-specification/)
+- [Geophysics](https://las-vegas.geotechnicalengineering1.biz/geophysics/)
+- [Geotechnical Analysis Soft Soil](https://las-vegas.geotechnicalengineering1.biz/geotechnical-analysis-soft-soil/)
+- [Geotextile Specification](https://las-vegas.geotechnicalengineering1.biz/geotextile-specification/)
+- [Ground Improvement](https://las-vegas.geotechnicalengineering1.biz/ground-improvement/)
+- [Grouting Design](https://las-vegas.geotechnicalengineering1.biz/grouting-design/)
+- [Hvsr Microtremor Survey](https://las-vegas.geotechnicalengineering1.biz/hvsr-microtremor-survey/)
+- [In Situ Testing](https://las-vegas.geotechnicalengineering1.biz/in-situ-testing/)
+- [Investigation](https://las-vegas.geotechnicalengineering1.biz/investigation/)
+- [Jet Grouting Design](https://las-vegas.geotechnicalengineering1.biz/jet-grouting-design/)
+- [Laboratory](https://las-vegas.geotechnicalengineering1.biz/laboratory/)
+- [Laboratory Cbr](https://las-vegas.geotechnicalengineering1.biz/laboratory-cbr/)
+- [Laboratory Permeability](https://las-vegas.geotechnicalengineering1.biz/laboratory-permeability/)
+- [Micropile Design](https://las-vegas.geotechnicalengineering1.biz/micropile-design/)
+- [Oedometer Consolidation](https://las-vegas.geotechnicalengineering1.biz/oedometer-consolidation/)
+- [Pile Skin Friction Vs](https://las-vegas.geotechnicalengineering1.biz/pile-skin-friction-vs/)
+- [Plate Load](https://las-vegas.geotechnicalengineering1.biz/plate-load/)
+- [Prefabricated Vertical Drain](https://las-vegas.geotechnicalengineering1.biz/prefabricated-vertical-drain/)
+- [Preloading Design](https://las-vegas.geotechnicalengineering1.biz/preloading-design/)
+- [Refraction Reflection](https://las-vegas.geotechnicalengineering1.biz/refraction-reflection/)
+- [Residual Soil Characterization](https://las-vegas.geotechnicalengineering1.biz/residual-soil-characterization/)
+- [Retaining Wall Design](https://las-vegas.geotechnicalengineering1.biz/retaining-wall-design/)
+- [Roadway](https://las-vegas.geotechnicalengineering1.biz/roadway/)
+- [Seismic](https://las-vegas.geotechnicalengineering1.biz/seismic/)
+- [Seismic Amplification Analysis](https://las-vegas.geotechnicalengineering1.biz/seismic-amplification-analysis/)
+- [Seismic Foundation Design](https://las-vegas.geotechnicalengineering1.biz/seismic-foundation-design/)
+- [Seismic Microzonation](https://las-vegas.geotechnicalengineering1.biz/seismic-microzonation/)
+- [Settlement Analysis](https://las-vegas.geotechnicalengineering1.biz/settlement-analysis/)
+- [Shallow Foundation Design](https://las-vegas.geotechnicalengineering1.biz/shallow-foundation-design/)
+- [Slope Failure Analysis](https://las-vegas.geotechnicalengineering1.biz/slope-failure-analysis/)
+- [Slope Stability Analysis](https://las-vegas.geotechnicalengineering1.biz/slope-stability-analysis/)
+- [Slope Stabilization Design](https://las-vegas.geotechnicalengineering1.biz/slope-stabilization-design/)
+- [Slopes Walls](https://las-vegas.geotechnicalengineering1.biz/slopes-walls/)
+- [Soil Classification](https://las-vegas.geotechnicalengineering1.biz/soil-classification/)
+
+## Contact
+- Website: https://las-vegas.geotechnicalengineering1.biz/
+
+## About
+This page provides information about geotechnical engineering services available in United States.
+The company complies with local and international standards including ASTM, ISO and country-specific norms.
